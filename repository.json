@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-ons for ngrok tunnels",
+  "name": "Home Assistant Add-ons ngrok tunnels addon",
   "url": "https://github.com/pssc/ha-addon-ngrok",
   "maintainer": "Phillip Camp"
 }
