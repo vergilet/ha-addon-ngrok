@@ -1,9 +1,11 @@
 #!/usr/bin/with-contenv bashio
 set -e
+bashio::log.info "$(ngrok --version)"
 bashio::log.debug "Building ngrok.yml..."
 configPath="/ngrok-config/ngrok.yml"
 mkdir -p /ngrok-config
 echo "log: stdout" > $configPath
+echo "version: 1" >> $configPath
 bashio::log.debug "Web interface port: $(bashio::addon.port 4040)"
 if bashio::var.has_value "$(bashio::addon.port 4040)"; then
   echo "web_addr: 0.0.0.0:$(bashio::addon.port 4040)" >> $configPath
