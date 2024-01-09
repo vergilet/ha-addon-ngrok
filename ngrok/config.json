@@ -5,7 +5,7 @@
   "description": "A ngrok client for Hass.io",
   "init": false,
   "webui": "http://[HOST]:[PORT:4040]",
-  "url": "https://github.com/pssc/ha-addon-ngrock",
+  "url": "https://github.com/pssc/ha-addon-ngrok",
   "stage": "experimental",
   "arch": [
     "aarch64",
