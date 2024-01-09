@@ -1,6 +1,4 @@
-# Hass.io ngrok Client
-
-A ngrok client for Hass.io
+# ngrok client installer addon for Home Assistant
 
 Based on the work of "Dylan Hasler" form "Home Assistant Add-ons - dy1io", https://github.com/dy1io/hassio-addons
 

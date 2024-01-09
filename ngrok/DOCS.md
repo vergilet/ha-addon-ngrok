@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Add the Github repo to your Hass.io: <https://github.com/dy1io/hassio-addons>
+1. Add the Github repo to your Hass.io: <https://github.com/pssc/ha-addons-ngrok>
 2. Install the addon
 3. Create an ngrok account and copy your auth key.
 4. Configure the options in the addon (see descriptions for each option below).
