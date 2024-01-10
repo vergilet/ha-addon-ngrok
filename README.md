@@ -1,4 +1,4 @@
-# Home Assistant Add-ons for installing an ngrok client (Unoffical)
+# Home Assistant Add-ons for installing an ngrok client (Unofficial)
 
 ## Installation
 
@@ -8,6 +8,7 @@ Or
 
 Add the repository url listed below to your Supervisor Add-on Store tab in Home
 Assistant.
+
 
 ```
 https://github.com/pssc/ha-addon-ngrok
