@@ -3,6 +3,7 @@
 ### 2.1.10
 - log version of client
 - v3 stable client installed and configured
+- further branding work.
 
 ### 2.1.9
 - Repo and addon to https://github.com/pssc/ha-addon-ngrok

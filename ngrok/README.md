@@ -1,4 +1,4 @@
-# ngrok client installer addon for Home Assistant
+# ngrok client installer and configurator addon for Home Assistant
 
 Based on the work of "Dylan Hasler" form "Home Assistant Add-ons - dy1io", https://github.com/dy1io/hassio-addons
 

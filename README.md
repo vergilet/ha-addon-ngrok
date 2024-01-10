@@ -1,4 +1,4 @@
-# Home Assistant Add-ons for ngrok
+# Home Assistant Add-ons for installing an ngrok client (Unoffical)
 
 ## Installation
 
